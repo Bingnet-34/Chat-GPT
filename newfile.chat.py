@@ -1,4 +1,4 @@
-pip install openai
+#pip install openai
 import openai
 openai.api_key= "sk-ctSXCZilnS0d0Lmzdrt6T3BlbkFJKWW3 6SKWKLtR6HhTgo7"
 while True:
